@@ -1,0 +1,5 @@
+package testgit
+
+func TestB() {
+
+}
